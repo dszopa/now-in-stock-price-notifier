@@ -1,0 +1,16 @@
+{
+  "name": "now-in-stock-price-notifier",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Szopa",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "nodemailer": "^4.6.0"
+  }
+}
