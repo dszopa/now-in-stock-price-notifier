@@ -18,4 +18,4 @@ node index.js 750 "https://www.nowinstock.net/computers/videocards/nvidia/gtx108
 ```
 
 ## TODO
-- More documentation on how to run / setup the script
+- Talk about auth.js (maybe make it work through command line)
